@@ -1,0 +1,9 @@
+body {
+  background: green; }
+  body h1 {
+    color: red; }
+  body ol li {
+    color: blue; }
+
+h1 {
+  color: yellow; }

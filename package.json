@@ -1,0 +1,24 @@
+{
+  "name": "front-end-example",
+  "version": "1.0.0",
+  "description": "learning for pipe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larrotta69/front-end-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/larrotta69/front-end-example/issues"
+  },
+  "homepage": "https://github.com/larrotta69/front-end-example#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.6",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.0.0"
+  }
+}
