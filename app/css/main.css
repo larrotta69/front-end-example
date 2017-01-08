@@ -1,9 +1,20 @@
-body {
-  background: green; }
-  body h1 {
-    color: red; }
-  body ol li {
-    color: blue; }
+.product-container {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 10px;
+  margin-bottom: 20px;
+  background: peru;
+  padding: 10px;
+  opacity: 0.5; }
+  .product-container.product-container-available, .product-container.product-container-best-seller {
+    opacity: 1; }
 
-h1 {
-  color: yellow; }
+.btn-main {
+  padding: 20px;
+  border: none;
+  background: gainsboro;
+  border-radius: 50px;
+  cursor: pointer;
+  outline: none; }
+  .btn-main:daniel {
+    background: gray; }
